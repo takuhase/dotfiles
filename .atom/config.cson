@@ -1,0 +1,10 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 13
+    softWrap: true
+  "exception-reporting":
+    userId: "eb9a96e7-2132-41bb-8798-53a57e62bcfc"
+  welcome:
+    showOnStartup: false

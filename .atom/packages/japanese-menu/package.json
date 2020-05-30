@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/rb/msghc3w92tzbxjwdxmwjw98h0000gn/T/d-118102-1680-1kddkjr.4d1cqv9529/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/rb/msghc3w92tzbxjwdxmwjw98h0000gn/T/d-118102-1680-1kddkjr.4d1cqv9529/package.tgz",
+        "spec": "/private/var/folders/rb/msghc3w92tzbxjwdxmwjw98h0000gn/T/d-118102-1680-1kddkjr.4d1cqv9529/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/rb/msghc3w92tzbxjwdxmwjw98h0000gn/T/apm-install-dir-118102-1680-ofxdbz.e1u9sve7b9"
+    ]
+  ],
+  "_from": "../d-118102-1680-1kddkjr.4d1cqv9529/package.tgz",
+  "_id": "japanese-menu@1.14.0",
+  "_inCache": true,
+  "_location": "/japanese-menu",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/rb/msghc3w92tzbxjwdxmwjw98h0000gn/T/d-118102-1680-1kddkjr.4d1cqv9529/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/rb/msghc3w92tzbxjwdxmwjw98h0000gn/T/d-118102-1680-1kddkjr.4d1cqv9529/package.tgz",
+    "spec": "/private/var/folders/rb/msghc3w92tzbxjwdxmwjw98h0000gn/T/d-118102-1680-1kddkjr.4d1cqv9529/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118102-1680-1kddkjr.4d1cqv9529/package.tgz",
+  "_shasum": "0536764f63ae98bba16e80d067e3eda151e765a0",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/rb/msghc3w92tzbxjwdxmwjw98h0000gn/T/d-118102-1680-1kddkjr.4d1cqv9529/package.tgz",
+  "_where": "/private/var/folders/rb/msghc3w92tzbxjwdxmwjw98h0000gn/T/apm-install-dir-118102-1680-ofxdbz.e1u9sve7b9",
+  "bugs": {
+    "url": "https://github.com/syon/atom-japanese-menu/issues"
+  },
+  "dependencies": {},
+  "description": "メニューバーとコンテキストメニュー、設定画面を日本語化します。",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/syon/atom-japanese-menu",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "japanese-menu",
+  "optionalDependencies": {},
+  "readme": "# Atom - Japanese Menu\n\nAtom のメニューバーとコンテキストメニュー、設定画面を日本語化します。\n\n![screenshot](https://github.com/syon/atom-japanese-menu/raw/master/screenshot.png)\n\n![screenshot](https://github.com/syon/atom-japanese-menu/raw/master/screenshot2.png)\n\n![screenshot](https://github.com/syon/atom-japanese-menu/raw/master/screenshot3.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syon/atom-japanese-menu.git"
+  },
+  "version": "1.14.0"
+}
