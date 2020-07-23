@@ -12,3 +12,5 @@ alias rdcre='rails db:create'
 alias rdmig='rails db:migrate'
 alias rdseed='rails db:seed'
 alias rr='rails routes'
+
+alias be='bundle exec'
